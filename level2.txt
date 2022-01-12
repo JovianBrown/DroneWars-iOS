@@ -1,0 +1,10 @@
+50000
+1
+2000
+2
+starsBG640.png
+roxymandusbg.png
+1
+0
+0
+0

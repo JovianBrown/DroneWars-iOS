@@ -1,0 +1,10 @@
+75000
+1
+1000
+2
+rockybg.png
+cloudsbg.png
+1
+2
+1
+1
